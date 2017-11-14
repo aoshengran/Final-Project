@@ -26,7 +26,7 @@ The software includes a web client that displays the power state
 
 ### Block Diagram
 
-
+![alt text](https://github.com/Spidmax/Final-Project/blob/master/Diagram.jpeg)
 
 ## Challenges
 1. I don't understand how to make Arduino work under high voltage that the humidifier requires. I will research to make sure that there would be no safe concerns.
