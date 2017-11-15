@@ -46,3 +46,4 @@ Week 5: Present the final project.
 https://thecustomizewindows.com/2017/10/arduino-temperature-humidity-sensor-new-dht11-dht21-dht22-tests/
 http://www.instructables.com/id/Controlling-AC-light-using-Arduino-with-relay-modu/
 http://arduino-info.wikispaces.com/TemperatureHumidity
+https://docs.particle.io/guide/getting-started/start/photon
