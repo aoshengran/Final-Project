@@ -35,15 +35,15 @@ The software includes a web client that displays the power state
 
 ## Timeline
 
-Week 1: Borrow the Wi-Fi Arduino & make sure it works properly, order the necessary sensors
-Week 2: Prototype the circuit with sensors and devices
-Week 3: Build the website, connect with the system, make it functional
-Week 4: Include real devices, test & iterate the circuit, debugging
+Week 1: Borrow the Wi-Fi Arduino & make sure it works properly, order the necessary sensors <br/>
+Week 2: Prototype the circuit with sensors and devices <br/>
+Week 3: Build the website, connect with the system, make it functional <br/>
+Week 4: Include real devices, test & iterate the circuit, debugging <br/>
 Week 5: Present the final project.
 
 ## References and link
 
-https://thecustomizewindows.com/2017/10/arduino-temperature-humidity-sensor-new-dht11-dht21-dht22-tests/
-http://www.instructables.com/id/Controlling-AC-light-using-Arduino-with-relay-modu/
-http://arduino-info.wikispaces.com/TemperatureHumidity
+https://thecustomizewindows.com/2017/10/arduino-temperature-humidity-sensor-new-dht11-dht21-dht22-tests/ <br/>
+http://www.instructables.com/id/Controlling-AC-light-using-Arduino-with-relay-modu/ <br/>
+http://arduino-info.wikispaces.com/TemperatureHumidity <br/>
 https://docs.particle.io/guide/getting-started/start/photon
