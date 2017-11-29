@@ -46,4 +46,6 @@ Week 5: Present the final project.
 https://thecustomizewindows.com/2017/10/arduino-temperature-humidity-sensor-new-dht11-dht21-dht22-tests/ <br/>
 http://www.instructables.com/id/Controlling-AC-light-using-Arduino-with-relay-modu/ <br/>
 http://arduino-info.wikispaces.com/TemperatureHumidity <br/>
-https://docs.particle.io/guide/getting-started/start/photon
+https://docs.particle.io/guide/getting-started/start/photon <br/>
+http://www.instructables.com/id/PhotonConnect-LCD-With-I2C/ <br/>
+https://www.hackster.io/moritz/measuring-temperature-and-humidity-with-particle-photon-f1c300
